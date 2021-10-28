@@ -6,7 +6,7 @@ RHS is created for seamless experience of servers visually rather than the termi
 - Run RHS using `remotehost`
 
 ## Installation for Developers
-- Run the backend server from [This Repository]()
+- Run the backend server from [this repository](https://github.com/Remote-Host-Services/remote-ssh/)
 - Build the file using `npm run build`
 - Start the server using `npm run dev` and open [Port 8000](http://localhost:8000/)
 
